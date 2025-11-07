@@ -1,0 +1,3 @@
+Archivos en PDF para un proyecto de estilometría computacional, identificando patrones de autoría, autenticidad académica e indicadores de generación por IA
+El archivo "TFG. Arquitectura para el Alzheimer. Residencias o viviendas adaptables" es un trabajo académico de autoría humana, realizado en 2016 antes de la irrupcion de la IA generativa. Se han cambiado las fechas dentro del documento para no dar pistas en el análisis.
+El archivo "TFG. Arquitectura para el Alzheimer. Residencias o viviendas adaptables" es un trabajo creado integramente por IA. Aunque las citas biblioráficas y documentación es real y disponible en red
